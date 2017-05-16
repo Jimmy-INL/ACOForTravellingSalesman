@@ -4,11 +4,11 @@ A way to solve the Traveler Salesman problem using the genetic algorithm and heu
 
 ## Problem:
 
-![problem](problem.jpg)
+![problem](problem.png)
 
 ## Solution:
 
-![solution](solution.jpg)
+![solution](solution.png)
 
 ## Step by Step to Install:
 
