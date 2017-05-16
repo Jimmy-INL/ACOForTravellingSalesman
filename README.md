@@ -12,7 +12,7 @@ A way to solve the Traveler Salesman problem using the genetic algorithm and heu
 
 ## Step by Step to Install:
 
-First of all, have pip and virtualenv installed.
+First of all, have Python 3.6, pip and virtualenv installed.
 
 1. Create a virtualenv for the project by prescribing Python 3.6:<br>
 ```virtualenv --python = python3.6 [environment name]```
